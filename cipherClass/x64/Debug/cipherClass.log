@@ -1,0 +1,4 @@
+﻿  Caesar.cpp
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\year 2\cipherClass\Caesar.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\year 2\cipherClass\Caesar.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cipherClass.vcxproj -> C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\year 2\cipherClass\x64\Debug\cipherClass.exe
